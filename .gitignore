@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Drizzle generated files
+drizzle/
+*.sql
+_journal.json
+*_snapshot.json
+
+# OS files
+.DS_Store
+Thumbs.db
